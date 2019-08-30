@@ -1,0 +1,29 @@
+Drill report for C:\Users\A.SaleH\Desktop\EV19\EV19\ev19dashboardv1\ev19dashboardv1.kicad_pcb
+Created on 3/12/2019 3:58:23 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'ev19dashboardv1-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.30mm  0.012"  (18 holes)
+    T2  0.40mm  0.016"  (131 holes)
+    T3  0.50mm  0.020"  (2 holes)
+    T4  0.90mm  0.035"  (32 holes)
+    T5  0.95mm  0.037"  (28 holes)
+    T6  1.00mm  0.039"  (13 holes)
+    T7  3.20mm  0.126"  (2 holes)
+    T8  4.20mm  0.165"  (4 holes)
+
+    Total plated holes count 230
+
+
+Drill file 'ev19dashboardv1-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

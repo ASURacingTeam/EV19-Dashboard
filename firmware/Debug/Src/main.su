@@ -1,0 +1,10 @@
+main.cpp:1315:6:void init_pins()	32	static
+main.cpp:1334:5:int _write(int, char*, int)	24	static
+main.cpp:1341:6:void TLC5940_clock_out_dc()	16	static
+main.cpp:1363:6:void led_update_pwm()	16	static
+main.cpp:1400:6:void TLC5940_Init()	8	static
+main.cpp:1414:5:int main()	40	static
+main.cpp:1494:6:void SystemClock_Config()	72	static
+main.cpp:1531:6:void Error_Handler()	4	static
+main.cpp:1536:1:void __static_initialization_and_destruction_0(int, int)	16	static
+main.cpp:1536:1:cpp)	8	static
